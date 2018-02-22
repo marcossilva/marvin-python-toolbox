@@ -23,7 +23,7 @@ Take the following steps to install Marvin Toolbox:
 1. Libsasl2-dev, Python-pip and Graphviz installation
 ```
 Ubuntu: 
-sudo apt-get install libsasl2-dev python-pip graphviz -y
+sudo apt-get install libsasl2-dev python-pip graphviz curl -y
 
 MacOS: 
 sudo easy_install pip
